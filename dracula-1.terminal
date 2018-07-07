@@ -137,6 +137,8 @@
 	ZXLRFxhUcm9vdIABCBEaIy0yNztBSE5bYouNj5SfqLCzvM7R1gAAAAAAAAEBAAAAAAAA
 	ABkAAAAAAAAAAAAAAAAAAADY
 	</data>
+	<key>BackgroundBlur</key>
+	<real>0.0</real>
 	<key>BackgroundColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -146,6 +148,10 @@
 	TlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KYmpyhrLW9wMnb3uMA
 	AAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA5Q==
 	</data>
+	<key>Bell</key>
+	<false/>
+	<key>BellBounce</key>
+	<false/>
 	<key>Font</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -183,6 +189,8 @@
 	dF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGa
 	rK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY=
 	</data>
+	<key>VisualBell</key>
+	<false/>
 	<key>name</key>
 	<string>Dracula 1</string>
 	<key>shellExitAction</key>
